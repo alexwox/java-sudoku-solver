@@ -1,0 +1,37 @@
+/SudokuSolver.class
+/SudukoSolver.class
+/SudukoSolverClass.class
+/SudokuSolverClass.class
+/SudokuSolverClassTest.class
+/SudokuViewer.class
+/SudokuController.class
+/SudokuApplication.class
+
+# macOS system files
+.DS_Store
+
+# Compiled Java classes
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse-specific files (uncomment if you don't want to share these)
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files (uncomment if you don't want to share these)
+.idea/
+*.iml
+
+# Build output directories (adjust based on your build tool)
+bin/
+target/
+out/
+build/
+
+# Generated documentation (e.g., Javadoc output)
+doc/
